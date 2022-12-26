@@ -37,7 +37,15 @@
 
 $background-footer-color: #F4F4F4;
 
+.main-wrapper{
+    padding-inline-start: 135px;
+    padding-inline-end: 135px;
+}
 
+img{
+    width: 100%;
+    height: auto;
+}
 
 footer{
         padding-inline-start: 8.43rem;
@@ -101,10 +109,7 @@ footer{
         }
     }
 
-img{
-    width: 1170px;
-    height: auto;
-}
+
     // @media  screen and (min-width:1440px) {
       
     // }

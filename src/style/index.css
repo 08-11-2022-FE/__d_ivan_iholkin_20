@@ -1,3 +1,13 @@
+.main-wrapper {
+  padding-inline-start: 135px;
+  padding-inline-end: 135px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
 footer {
   padding-inline-start: 8.43rem;
   padding-inline-end: 8.43rem;
@@ -60,11 +70,6 @@ footer .footer-wrapper .social li:hover {
 }
 footer .footer-wrapper .social li:hover a .icon {
   fill: #F4F4F4;
-}
-
-img {
-  width: 1170px;
-  height: auto;
 }
 
 /*# sourceMappingURL=index.css.map */
